@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--spacing-large);
+}
+.list__container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.list__container a {
+  display: block;
+  margin: 0 8px;
+  padding: 7px 8px;
+  color: lightgreen;
+  text-align: center;
+  text-decoration: none;
+  font-size: var(--font-size-medium);
+}
+.title {
+  font-size: var(--spacing-large);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  margin-left: var(--spacing-medium);
+}

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Den081985/BB-React-App/static/css/main.0273271a.css",
+    "main.js": "/Den081985/BB-React-App/static/js/main.6d85528c.js",
+    "static/js/787.1fedc8ad.chunk.js": "/Den081985/BB-React-App/static/js/787.1fedc8ad.chunk.js",
+    "static/media/3133.gif": "/Den081985/BB-React-App/static/media/3133.70a32da0819077f48fe9.gif",
+    "static/media/1198503.jpg": "/Den081985/BB-React-App/static/media/1198503.3d8ee542b1976ef1deab.jpg",
+    "static/media/636560.jpg": "/Den081985/BB-React-App/static/media/636560.7742b6eb4189c40429d1.jpg",
+    "static/media/676124.jpg": "/Den081985/BB-React-App/static/media/676124.769e8c01bfe0b8d28a3b.jpg",
+    "static/media/63542.jpg": "/Den081985/BB-React-App/static/media/63542.6a63fffb62d58ed5a032.jpg",
+    "static/media/607643.jpg": "/Den081985/BB-React-App/static/media/607643.ee7bd8278ff4cd9dbd22.jpg",
+    "static/media/820438.jpg": "/Den081985/BB-React-App/static/media/820438.22d84753818673dd1027.jpg",
+    "static/media/481029.jpg": "/Den081985/BB-React-App/static/media/481029.3f0d3830b9054c745fcb.jpg",
+    "static/media/296854.jpg": "/Den081985/BB-React-App/static/media/296854.269931788a64539eb5cb.jpg",
+    "index.html": "/Den081985/BB-React-App/index.html",
+    "main.0273271a.css.map": "/Den081985/BB-React-App/static/css/main.0273271a.css.map",
+    "main.6d85528c.js.map": "/Den081985/BB-React-App/static/js/main.6d85528c.js.map",
+    "787.1fedc8ad.chunk.js.map": "/Den081985/BB-React-App/static/js/787.1fedc8ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0273271a.css",
+    "static/js/main.6d85528c.js"
+  ]
+}

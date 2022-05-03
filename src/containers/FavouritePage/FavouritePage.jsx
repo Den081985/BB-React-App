@@ -15,8 +15,8 @@ const FavouritePage = () => {
    */
   useEffect(() => {
     const array = Object.entries(storeData);
-    // console.log(array);
-    // console.log(people.length);
+    console.log(array);
+    console.log(people.length);
     if (array.length) {
       const response = array.map((item) => {
         return {
@@ -31,12 +31,12 @@ const FavouritePage = () => {
     <>
       <h2 className={styles.title}>Favourites</h2>
       {people.length ? (
+        <PeopleList people={people} />
+      ) : (
         <div>
           <h3 className={styles.title}>There is nothing here, bitch!</h3>
           <ErrorMessage />
         </div>
-      ) : (
-        <PeopleList people={people} />
       )}
     </>
   );

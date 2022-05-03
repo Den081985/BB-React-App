@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BB-React-App/static/css/main.c8736567.css",
-    "main.js": "/BB-React-App/static/js/main.0c1618ee.js",
+    "main.js": "/BB-React-App/static/js/main.5f3b9adb.js",
     "static/js/787.1fedc8ad.chunk.js": "/BB-React-App/static/js/787.1fedc8ad.chunk.js",
     "static/media/3133.gif": "/BB-React-App/static/media/3133.70a32da0819077f48fe9.gif",
     "static/media/1198503.jpg": "/BB-React-App/static/media/1198503.3d8ee542b1976ef1deab.jpg",
@@ -14,11 +14,11 @@
     "static/media/296854.jpg": "/BB-React-App/static/media/296854.269931788a64539eb5cb.jpg",
     "index.html": "/BB-React-App/index.html",
     "main.c8736567.css.map": "/BB-React-App/static/css/main.c8736567.css.map",
-    "main.0c1618ee.js.map": "/BB-React-App/static/js/main.0c1618ee.js.map",
+    "main.5f3b9adb.js.map": "/BB-React-App/static/js/main.5f3b9adb.js.map",
     "787.1fedc8ad.chunk.js.map": "/BB-React-App/static/js/787.1fedc8ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8736567.css",
-    "static/js/main.0c1618ee.js"
+    "static/js/main.5f3b9adb.js"
   ]
 }
